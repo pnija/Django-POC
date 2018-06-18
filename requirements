@@ -1,0 +1,8 @@
+dateparser==0.7.0
+Django==2.0.5
+djangorestframework==3.8.2
+python-dateutil==2.7.3
+pytz==2018.4
+regex==2018.6.9
+six==1.11.0
+tzlocal==1.5.1
